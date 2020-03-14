@@ -10,6 +10,5 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MallAdminApplication {
     public static void main(String[] args) {
         SpringApplication.run(MallAdminApplication.class, args);
-        System.err.println(1);
     }
 }
